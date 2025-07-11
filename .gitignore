@@ -1,0 +1,15 @@
+# Node - React (clientes-front)
+clientes-front/node_modules/
+clientes-front/dist/
+clientes-front/.vite/
+
+# .NET - C# (ClientesAPI)
+ClientesAPI/bin/
+ClientesAPI/obj/
+ClientesAPI/.vs/
+ClientesAPI/.vscode/
+ClientesAPI/Properties/launchSettings.json
+
+# Sistema
+.DS_Store
+Thumbs.db

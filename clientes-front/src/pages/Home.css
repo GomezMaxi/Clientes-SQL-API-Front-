@@ -1,0 +1,151 @@
+.home-container {
+  padding: 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.home-titulo {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #333;
+}
+
+.home-buscador {
+  width: 100%;
+  max-width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: block;
+}
+
+.boton-crear {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.boton-crear:hover {
+  background-color: #45a049;
+}
+
+/* Tarjetas para mobile */
+.clientes-tarjetas {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.cliente-card {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.cliente-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+  color: #222;
+}
+
+.cliente-card p {
+  margin: 0 0 1rem 0;
+  color: #555;
+}
+
+.cliente-acciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center; 
+}
+
+.cliente-acciones button {
+  width: 90px; 
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+
+.btn-detalle {
+  background-color: #2196F3;
+  color: white;
+}
+
+.btn-detalle:hover {
+  background-color: #1c86d1;
+}
+
+.btn-editar {
+  background-color: #FF9800;
+  color: white;
+}
+
+.btn-editar:hover {
+  background-color: #e58b00;
+}
+
+.btn-eliminar {
+  background-color: #f44336;
+  color: white;
+}
+
+.btn-eliminar:hover {
+  background-color: #d93025;
+}
+
+
+/* Tabla para pantallas grandes */
+.clientes-tabla {
+  display: none; /* Oculta en mobile */
+}
+
+@media (min-width: 768px) {
+  .clientes-tarjetas {
+    display: none;
+  }
+
+  .clientes-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    display: table;
+  }
+
+  .clientes-tabla th {
+    border: 1px solid #ccc;
+    padding: 0.75rem;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .clientes-tabla td {
+    border: 1px solid #ccc;
+    padding: 0.75rem;
+    background-color: #fff;
+    text-align: left; 
+  }
+
+  .cliente-acciones {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center; 
+  }
+}

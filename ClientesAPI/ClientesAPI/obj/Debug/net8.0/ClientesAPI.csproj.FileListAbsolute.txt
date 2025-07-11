@@ -1,0 +1,172 @@
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.exe
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.deps.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.runtimeconfig.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.pdb
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.ClientesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesAPI.props
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesAPI.props
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesAPI.props
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\scopedcss\bundle\ClientesAPI.styles.css
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\Clientes.1F7BBE78.Up2Date
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\refint\ClientesAPI.dll
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.pdb
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.genruntimeconfig.cache
+C:\Users\Maxi\source\repos\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ref\ClientesAPI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\appsettings.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.exe
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.deps.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.runtimeconfig.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\ClientesAPI.pdb
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Text.Json.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.AssemblyReference.cache
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfoInputs.cache
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfo.cs
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.CoreCompileInputs.cache
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.ClientesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesAPI.props
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesAPI.props
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesAPI.props
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\scopedcss\bundle\ClientesAPI.styles.css
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\Clientes.1F7BBE78.Up2Date
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\refint\ClientesAPI.dll
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.pdb
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ClientesAPI.genruntimeconfig.cache
+E:\maxi\TECNICATURA EN PROGRAMACION\2025\Labo 4\TP2\Clientes\ClientesAPI\ClientesAPI\obj\Debug\net8.0\ref\ClientesAPI.dll
