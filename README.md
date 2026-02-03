@@ -50,6 +50,7 @@ La comunicación entre el frontend y el backend se realiza mediante solicitudes 
    npm install axios wouter react-hook-form zod @hookform/resolvers
    npm install sonner
    npm install sweetalert2
+   
 
 2. Ejecutar el proyecto
    ```bash
